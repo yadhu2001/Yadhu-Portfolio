@@ -42,7 +42,7 @@ export default function Footer() {
           <div className="text-center">
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               © {currentYear} Designed by{' '}
-              <span className="text-emerald-600 dark:text-emerald-400 font-semibold">SURABHI</span>
+              <span className="text-emerald-600 dark:text-emerald-400 font-semibold">Yadhu Krishnan P S</span>
             </p>
             <p className="text-gray-500 dark:text-gray-500 text-xs mt-2">
               Built with React, TypeScript & Tailwind CSS
